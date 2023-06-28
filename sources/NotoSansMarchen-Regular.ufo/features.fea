@@ -1,6 +1,7 @@
 @BASES = [ ka_marc kha_marc ga_marc nga_marc ca_marc cha_marc ja_marc nya_marc ta_marc tha_marc da_marc na_marc pa_marc pha_marc ba_marc ma_marc tsa_marc tsha_marc dza_marc wa_marc zha_marc za_marc aa_marc ya_marc ra_marc la_marc sha_marc sa_marc ha_marc a_marc ];
 
 # Prefix: Languagesystems
+languagesystem DFLT dflt;
 languagesystem marc dflt;
 
 # Prefix: references
